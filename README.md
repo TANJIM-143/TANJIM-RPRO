@@ -1,1 +1,2 @@
 # TANJIM-RPRO
+rm -rf TANJIM-RPRO
