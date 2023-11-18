@@ -15,10 +15,10 @@
 
 `rm -rf TANJIM-RPRO`
 
-`git clone https://github.com/TANJIM-143/UID-6-GREEN.git`
+`git clone https://github.com/TANJIM-143/TANJIM-RPRO.git`
 
-`cd UID-6-GREEN`
+`cd TANJIM-RPRO`
 
-`python green.py`
+`python RPRO.py`
 
 
